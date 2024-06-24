@@ -115,7 +115,7 @@ body {
     position: absolute;
     bottom: 150px;
     right: 150px;
-    animation: rotate 3s linear infinite;
+    animation: rotate 1s linear infinite;
 }
 
 #btn-loader {
